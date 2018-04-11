@@ -10,7 +10,7 @@ Player.prototype.roll = function () {
     //    console.log(dieRanVal)
     if (dieRanVal === 1) {
         this.turnScore = 0
-        alert("Ooops! You rolled a 1. It's  " + this.Name +"'s turn")
+        alert("LOOL! You rolled a 1. It's  " + this.Name +"'s turn")
         dieRanVal= 0;
     } else {
         this.turnScore = this.turnScore + dieRanVal
