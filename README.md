@@ -1,6 +1,8 @@
 # Pig-Dice
 By Lee Mutahi
+
 ###Program Description
+
 #Objective of Game-In each turn a player rolls a die repeatedly until either a 1 is rolled or player decides to hold and pass on the turn to its opponent.
 
 The number player rolls is added to a temporary score. If the player rolls a 1, they lose their temporary score and turn is passed to their opponent. If player gets any other number, they can decide to continue and roll the die.
